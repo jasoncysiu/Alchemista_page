@@ -1,13 +1,13 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9d2ba1f3c64a4b80a6b73dc8f5c45d8b',
+  rootNotionPageId: '4fa1716cdc3d4e32a0aeba0623f7e933',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jason Siu Blog',
+  name: 'Alchemista',
   domain: 'jason-siu.com',
   author: 'Jason Siu',
 
